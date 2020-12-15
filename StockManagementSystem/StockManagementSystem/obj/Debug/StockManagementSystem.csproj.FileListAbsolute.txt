@@ -1,0 +1,6 @@
+E:\Don't touch\DotNet\Project\StockManagementSystemInfo\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+E:\Don't touch\DotNet\Project\StockManagementSystemInfo\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+E:\Don't touch\DotNet\Project\StockManagementSystemInfo\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+E:\Don't touch\DotNet\Project\StockManagementSystemInfo\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\Don't touch\DotNet\Project\StockManagementSystemInfo\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+E:\Don't touch\DotNet\Project\StockManagementSystemInfo\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb

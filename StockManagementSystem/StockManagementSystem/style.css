@@ -1,0 +1,30 @@
+﻿body {
+    /*margin: 0px 100px;*/
+   
+}
+.left-side {
+    background-color: #f0f8ff;
+    height: 800px;
+}
+.right-side {
+    background-color: #f8f8ff;
+    min-height: 800px;
+}
+legend {
+    text-align: center;
+    margin-bottom: 50px;
+}
+a{
+    color: orangered;
+}
+.anc {
+    text-align: center;
+    border-bottom: 2px solid gray;
+    border-color: lightgrey;
+    padding: 20px;
+   
+}
+.anc:hover {
+     background-color: gray;
+    
+}
